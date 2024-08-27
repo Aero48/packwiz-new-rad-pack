@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:flower_pot",
+    "minecraft:torch",
+    "minecraft:soul_torch",
+    "minecraft:redstone_torch",
+    "minecraft:wall_torch",
+    "minecraft:soul_wall_torch",
+    "minecraft:redstone_wall_torch",
+    "minecraft:tripwire_hook",
+    "#minecraft:flower_pots",
+    "caverns_and_chasms:cupric_torch",
+    "endergetic:ender_torch",
+    "caverns_and_chasms:cupric_wall_torch",
+    "endergetic:ender_wall_torch",
+    "toms_storage:ts.inventory_cable",
+    "toms_storage:ts.inventory_cable_framed"
+  ]
+}

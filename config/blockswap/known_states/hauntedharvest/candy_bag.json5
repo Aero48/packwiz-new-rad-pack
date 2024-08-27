@@ -1,0 +1,294 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "1",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "1",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "candy_cane"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "1",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "candy_corn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "popcorn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "popcorn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "popcorn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "popcorn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "popcorn"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "1",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "kernels"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "1",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "2",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "3",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "4",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "5",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"fill_level": "6",
+			"content": "other_candy"
+		},
+		"Name": "hauntedharvest:candy_bag"
+	}
+]

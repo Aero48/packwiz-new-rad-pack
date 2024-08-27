@@ -1,0 +1,9 @@
+{
+  "leaves": [
+    "environmental:blue_wisteria_leaves",
+    "environmental:wisteria_leaves"
+  ],
+  "logs": [
+    "#environmental:wisteria_logs"
+  ]
+}

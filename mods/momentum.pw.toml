@@ -1,0 +1,13 @@
+name = "Momentum"
+filename = "Momentum-1.19.2-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ae906a86441820e7a9f6cc70b6524b8009b8891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4707912
+project-id = 454174

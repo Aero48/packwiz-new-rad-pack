@@ -1,0 +1,23 @@
+{
+  "values": [
+    "minecraft:gold_block",
+    "minecraft:light_weighted_pressure_plate",
+    "caverns_and_chasms:silver_block",
+    "oreganized:electrum_block",
+    "caverns_and_chasms:silver_bars",
+    "caverns_and_chasms:silver_button",
+    "caverns_and_chasms:medium_weighted_pressure_plate",
+    "caverns_and_chasms:golden_bars",
+    "create:shaft",
+    "quark:gold_button",
+    "supplementaries:globe",
+    "supplementaries:globe_sepia",
+    "supplementaries:goblet",
+    "supplementaries:gold_door",
+    "supplementaries:gold_trapdoor",
+    "supplementaries:silver_door",
+    "supplementaries:silver_trapdoor",
+    "supplementaries:gold_gate",
+    "goldenhopper:golden_hopper"
+  ]
+}

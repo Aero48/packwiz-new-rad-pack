@@ -1,0 +1,10 @@
+{
+  "leaves": [
+    "environmental:cherry_leaves",
+    "environmental:cheerful_cherry_leaves",
+    "environmental:moody_cherry_leaves"
+  ],
+  "logs": [
+    "#environmental:cherry_logs"
+  ]
+}

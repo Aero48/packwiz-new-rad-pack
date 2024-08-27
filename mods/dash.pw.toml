@@ -1,0 +1,13 @@
+name = "Dash"
+filename = "dash-1.19.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e5c1f746c6a83e299e6622d94fc623d1c641b46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905146
+project-id = 370782

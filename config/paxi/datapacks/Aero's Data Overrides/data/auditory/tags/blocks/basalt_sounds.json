@@ -1,0 +1,31 @@
+{
+  "values": [
+    "minecraft:andesite",
+    "minecraft:andesite_wall",
+    "minecraft:andesite_slab",
+    "minecraft:andesite_stairs",
+    "minecraft:diorite",
+    "minecraft:diorite_wall",
+    "minecraft:diorite_stairs",
+    "minecraft:diorite_slab",
+    "minecraft:granite",
+    "minecraft:granite_wall",
+    "minecraft:granite_slab",
+    "minecraft:granite_stairs",
+    "atmospheric:dolerite",
+    "oreganized:glance",
+    "oreganized:glance_slab",
+    "oreganized:glance_stairs",
+    "oreganized:glance_wall",
+    "oreganized:spotted_glance",
+    "oreganized:waxed_spotted_glance",
+    "quark:permafrost",
+    "quark:permafrost_slab",
+    "quark:permafrost_stairs",
+    "quark:permafrost_wall",
+    "quark:permafrost_vertical_slab",
+    "quark:andesite_vertical_slab",
+    "quark:diorite_vertical_slab",
+    "quark:granite_vertical_slab"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:pumpkin",
+    "minecraft:carved_pumpkin",
+    "minecraft:jack_o_lantern",
+    "minecraft:melon",
+    "hauntedharvest:carved_pumpkin",
+    "hauntedharvest:jack_o_lantern",
+    "hauntedharvest:soul_jack_o_lantern",
+    "hauntedharvest:redstone_jack_o_lantern",
+    "hauntedharvest:ender_jack_o_lantern",
+    "hauntedharvest:green_jack_o_lantern"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "leaves": [
+        "atmospheric:laurel_leaves",
+        "atmospheric:dry_laurel_leaves"
+    ],
+    "logs": [
+        "#atmospheric:laurel_logs"
+    ]
+}

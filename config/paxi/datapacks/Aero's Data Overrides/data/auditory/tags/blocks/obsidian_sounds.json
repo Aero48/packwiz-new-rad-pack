@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:respawn_anchor",
+    "minecraft:enchanting_table",
+    "minecraft:ender_chest",
+    "endergetic:acidian_lantern",
+    "endergetic:crystal_holder",
+    "endergetic:mystical_obsidian",
+    "endergetic:mystical_obsidian_wall",
+    "endergetic:mystical_obsidian_rune",
+    "endergetic:mystical_obsidian_activation_rune",
+    "endergetic:activated_mystical_obsidian_activation_rune",
+    "quark:obsidian_pressure_plate"
+  ]
+}

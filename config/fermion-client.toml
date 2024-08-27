@@ -1,0 +1,14 @@
+
+#Extra tooltips for items that displays helpful information
+[tooltips]
+	#Items that are dyeable with have a tooltip displaying this
+	"Dyeable Tooltip" = true
+	#All Horse Armour items will display their armor stat
+	"Horse Armour Tooltip" = true
+	#Food Item Tooltips display which effects they provide
+	"Food Effect Tooltip" = true
+	#Blacklist of items to display food effects tooltips
+	"Food Effect Tooltip BlackList" = ["farmersdelight:apple_cider", "farmersdelight:cooked_rice", "farmersdelight:bone_broth", "farmersdelight:beef_stew", "farmersdelight:chicken_soup", "farmersdelight:vegetable_soup", "farmersdelight:fish_stew", "farmersdelight:fried_rice", "farmersdelight:pumpkin_soup", "farmersdelight:baked_cod_stew", "farmersdelight:noodle_soup", "farmersdelight:bacon_and_eggs", "farmersdelight:pasta_with_meatballs", "farmersdelight:pasta_with_mutton_chop", "farmersdelight:mushroom_rice", "farmersdelight:roasted_mutton_chops", "farmersdelight:vegetable_noodles", "farmersdelight:steak_and_potatoes", "farmersdelight:ratatouille", "farmersdelight:squid_ink_pasta", "farmersdelight:grilled_salmon", "farmersdelight:roast_chicken", "farmersdelight:stuffed_pumpkin", "farmersdelight:honey_glazed_ham", "farmersdelight:shepherds_pie", "farmersdelight:fruit_salad", "farmersdelight:mixed_salad", "abnormals_delight:slabdish"]
+	#Items In this list will have a custom tooltip you will have to add a translation for
+	"Custom Tooltip List" = []
+

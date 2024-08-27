@@ -1,0 +1,9 @@
+{
+    "leaves": [
+        "minecraft:azalea_leaves",
+        "minecraft:flowering_azalea_leaves"
+    ],
+    "logs": [
+        "#caverns_and_chasms:azalea_logs"
+    ]
+}

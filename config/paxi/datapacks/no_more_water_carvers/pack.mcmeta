@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Aetherial Islands",
+        "color": "#e7db1e"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Quidvio",
+        "color": "#ffc76f"
+      }
+    ],
+    "pack_format": 10
+  }
+}

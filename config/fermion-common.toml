@@ -1,0 +1,36 @@
+
+#Creative Mode Tab Tweaks
+[tab-tweaks]
+	#Hides all modded Creative Mode Tabs. (REQUIRES RESTART)
+	"Hide Modded Tabs" = false
+	#Hides any item in this list from the Creative Mode Inventories. (REQUIRES RESTART)
+	"Hidden Items" = ["minecraft:petrified_oak_slab", "quark:polished_calcite", "quark:calcite_slab", "quark:calcite_stairs", "quark:calcite_wall", "quark:polished_calcite_slab", "quark:polished_calcite_stairs", "quark:calcite_vertical_slab", "quark:polished_calcite_vertical_slab", "quark:polished_tuff", "quark:tuff_slab", "quark:tuff_stairs", "quark:tuff_wall", "quark:polished_tuff_slab", "quark:polished_tuff_stairs", "quark:tuff_vertical_slab", "quark:polished_tuff_vertical_slab", "supplementaries:lapis_bricks", "supplementaries:lapis_bricks_stairs", "supplementaries:lapis_bricks_slab", "supplementaries:lapis_bricks_vertical_slab", "supplementaries:lapis_bricks_wall", "autumnity:pancake", "farmersdelight:fried_egg", "farmersdelight:milk_bottle", "everycomp:fd/caverns_and_chasms/azalea_cabinet", "quark:azalea_hedge", "quark:flowering_azalea_hedge", "supplementaries:altimeter", "environmental:hibiscus_leaf_carpet", "environmental:willow_leaf_carpet", "environmental:pine_leaf_carpet", "environmental:cherry_leaf_carpet", "environmental:cheerful_cherry_leaf_carpet", "environmental:moody_cherry_leaf_carpet", "environmental:wisteria_leaf_carpet", "environmental:pink_wisteria_leaf_carpet", "environmental:blue_wisteria_leaf_carpet", "environmental:purple_wisteria_leaf_carpet", "environmental:white_wisteria_leaf_carpet", "atmospheric:rosewood_leaf_carpet", "atmospheric:morado_leaf_carpet", "atmospheric:flowering_morado_leaf_carpet", "atmospheric:yucca_leaf_carpet", "atmospheric:aspen_leaf_carpet", "atmospheric:green_aspen_leaf_carpet", "atmospheric:laurel_leaf_carpet", "atmospheric:dry_laurel_leaf_carpet", "atmospheric:kousa_leaf_carpet", "atmospheric:currant_leaf_carpet", "atmospheric:grimwood_leaf_carpet", "upgrade_aquatic:river_leaf_carpet", "autumnity:maple_leaf_carpet", "autumnity:yellow_maple_leaf_carpet", "autumnity:orange_maple_leaf_carpet", "autumnity:red_maple_leaf_carpet", "oreganized:raw_silver", "oreganized:silver_ingot", "oreganized:silver_nugget", "oreganized:silver_ore", "oreganized:deepslate_silver_ore", "oreganized:raw_silver_block", "oreganized:silver_block", "farmersdelight:rope", "windswept:bluebells", "quark:azalea_sign", "quark:azalea_boat", "quark:azalea_chest_boat", "oreganized:netherite_nugget", "buzzier_bees:honey_apple", "create:bar_of_chocolate", "caverns_and_chasms:copper_nugget", "caverns_and_chasms:copper_bars", "caverns_and_chasms:exposed_copper_bars", "caverns_and_chasms:weathered_copper_bars", "caverns_and_chasms:oxidized_copper_bars", "caverns_and_chasms:waxed_copper_bars", "caverns_and_chasms:waxed_exposed_copper_bars", "caverns_and_chasms:waxed_weathered_copper_bars", "caverns_and_chasms:waxed_oxidized_copper_bars", "sullysmod:copper_button", "sullysmod:exposed_copper_button", "sullysmod:weathered_copper_button", "sullysmod:oxidized_copper_button", "sullysmod:waxed_copper_button", "sullysmod:waxed_exposed_copper_button", "sullysmod:waxed_weathered_copper_button", "sullysmod:waxed_oxidized_copper_button", "caverns_and_chasms:exposed_toolbox", "caverns_and_chasms:weathered_toolbox", "caverns_and_chasms:oxidized_toolbox", "caverns_and_chasms:toolbox", "caverns_and_chasms:waxed_toolbox", "caverns_and_chasms:waxed_exposed_toolbox", "caverns_and_chasms:waxed_weathered_toolbox", "caverns_and_chasms:waxed_oxidized_toolbox", "quark:ancient_sign", "quark:ancient_boat", "quark:ancient_chest_boat", "quark:ancient_fruit", "quark:blossom_sign", "quark:blossom_boat", "quark:blossom_chest_boat", "environmental:truffle_pie", "create_central_kitchen:truffle_pie_slice", "windswept:holly_leaf_carpet", "windswept:chestnut_leaf_carpet"]
+	#Moves any item in this list to any specified item tab (REQUIRES RESTART). 
+	#Values: building_blocks, decorations, redstone, transport, misc, food, tools, combat, brewing
+	"Item Tab Modifiers" = ["minecraft:command_block=redstone", "minecraft:repeating_command_block=redstone", "minecraft:chain_command_block=redstone", "minecraft:command_block_minecart=transport", "minecraft:dragon_egg=misc", "minecraft:spawner=misc", "minecraft:structure_block=redstone"]
+	#Hides any enchantment from this list from the Creative Mode Inventories.
+	"Hidden Enchanted Books" = []
+	#Hides any registered potions (NOT EFFECTS) from this list from the Creative Mode Inventories.
+	"Hidden Potions" = []
+
+	#Replace the Item Icon for the vanilla Creative Mode Tabs
+	[tab-tweaks.tab-icons]
+		"Building Blocks Tab Icon" = "minecraft:bricks"
+		"Decorations Tab Icon" = "minecraft:peony"
+		"Redstone Tab Icon" = "minecraft:redstone"
+		"Transportation Tab Icon" = "minecraft:powered_rail"
+		"Misc Tab Icon" = "minecraft:lava_bucket"
+		"Foodstuffs Tab Icon" = "minecraft:apple"
+		"Tools Tab Icon" = "minecraft:iron_axe"
+		"Combat Tab Icon" = "minecraft:golden_sword"
+		"Brewing Tab Icon" = "minecraft:potion"
+		"Inventory Tab Icon" = "minecraft:chest"
+		"Search Tab Icon" = "minecraft:compass"
+		"Saved Hotbar Tab Icon" = "minecraft:bookshelf"
+
+#Block Tweaks
+[block-tweaks]
+	#Allows the modification of any blocks SoundType (REQUIRES RESTART). 
+	#Values: wood, gravel, grass, lily_pad, stone, metal, glass, wool, sand, snow, powder_snow, ladder, anvil, slime, honey, wet_grass, coral, bamboo, bamboo_sapling, scaffolding, sweet_berry_bush, crop, hard_crop, vine, nether_wart, lantern, stem, nylium, fungus, roots, shroomlight, weeping_vines, twisting_vines, soul_sand, soul_soil, basalt, wart_block, netherrack, nether_bricks, nether_sprouts, nether_ore, bone_block, netherite_block, ancient_debris, lodestone, chain, nether_gold_ore, gilded_blackstone, candle, amethyst, amethyst_cluster, small_amethyst_bud, medium_amethyst_bud, large_amethyst_bud, tuff, calcite, dripstone, pointed_dripstone, copper, cave_vines, spore_blossom, azalea, flowering_azalea, moss_carpet, moss, big_dripleaf, small_dripleaf, rooted_dirt, hanging_roots, azalea_leaves, sculk_sensor, sculk_catalyst, sculk, sculk_vein, sculk_shrieker, glow_lichen, deepslate, deepslate_bricks, deepslate_tiles, polished_deepslate, froglight, frogspawn, mangrove_roots, muddy_mangrove_roots, mud, mud_bricks, packed_mud
+	"Block SoundType Overrides" = ["minecraft:cobweb=wool"]
+

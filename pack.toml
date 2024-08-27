@@ -1,0 +1,13 @@
+name = "Packwiz New Rad Pack"
+author = "Aero48"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "faeedb6c8da6c1e051561fbd1703f4c010b2854ee41a476bdcede43438c5ecda"
+
+[versions]
+forge = "43.4.2"
+minecraft = "1.19.2"
