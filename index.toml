@@ -27180,14 +27180,12 @@ hash = "c16809bbd0291ca38cff60aaae308581f4e5dd19a418a8d679a08d3ae4dd2022"
 metafile = true
 
 [[files]]
-file = "mods/no-void-structures.pw.toml"
-hash = "8aab1ad2d9a62530e62fde6db3653cd4739b27576f3795b3fc504f91917ad0ae"
-metafile = true
+file = "mods/no_void_structures-forge-mc1.19-v1.0.0.jar"
+hash = "fceb896c431a8abcf5517a1a30f6e3df0020f7fe64f7864106c1f6ff36f92fcd"
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "8852489f97240d36d9f44623d58694b1b62c7508f4f8b1e9766c8151992cee8a"
-metafile = true
+file = "mods/notenoughanimations-forge-1.7.5-mc1.19.2.jar"
+hash = "c54c5d75ec58dbd351326a9ff4b5bc7f793010634cf526dac5beb63913931eb6"
 
 [[files]]
 file = "mods/nullscape.pw.toml"
