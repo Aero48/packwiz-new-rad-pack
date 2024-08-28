@@ -26921,6 +26921,11 @@ hash = "32620e1840e795720406f70ce61a79c9220540a2161772c84bcae6d16e44bfec"
 metafile = true
 
 [[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "f551da58dbe0e32fc8b24e9ca9a3cfffa5b431d2eee2ac760cc8a2368b811180"
+metafile = true
+
+[[files]]
 file = "mods/caverns-and-chasms.pw.toml"
 hash = "294d2a14cfe0e486071b8cc36781bf64612baf64fb1d4eb553286489f7ae49de"
 metafile = true
@@ -26963,11 +26968,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
-metafile = true
-
-[[files]]
-file = "mods/crafting-tweaks.pw.toml"
-hash = "a54cb1c1e62e5ed9770ba33628f348b84d6ddc36635294c59024e3538d8a4781"
 metafile = true
 
 [[files]]
@@ -27167,6 +27167,11 @@ metafile = true
 [[files]]
 file = "mods/momentum.pw.toml"
 hash = "b57f6fde873039514709fc9309c2f47c400e8acec90abac162e6e0e7de2983a3"
+metafile = true
+
+[[files]]
+file = "mods/more-concrete.pw.toml"
+hash = "953d5b6e8a58b71b0b8277e87040c8d39a46f2939e9313d651af9acdc1b61fa5"
 metafile = true
 
 [[files]]
@@ -27373,8 +27378,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnboundEdit_r5.2.1.zip"
-hash = "50e680ca74c61e969d3b69ef30565296b01837536c880618dea3bb098d1fe44e"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnboundEdit_r5.2.1.zip.txt"
-hash = "8d0e33f37c0933cb8b9418215aaaa095648919ac0e0eeccbaa122ceefe983caa"
+hash = "3d8ea9a754f69b0f67ff02fc32f01600f0b3e53582c80cc4e81bb07a86a7777c"
